@@ -1,0 +1,5 @@
+npm install -g --force nodemon
+
+'C:/windows/system32/awesome-test/'
+
+342467781.1677ed0.f53ae66d44a547f99fb916ec703ad726
