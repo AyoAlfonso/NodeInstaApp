@@ -12,7 +12,7 @@ app.set('view engine', 'ejs');
 
 // I got my access token and then configured the instagram app 
 ig.use({
-  access_token: '342467781.1677ed0.f53ae66d44a547f99fb916ec703ad726',
+  access_token: '34246SS7781.1677ed0.f53ae66d44a547f99fb916ec703ad726',
 });
 
 
